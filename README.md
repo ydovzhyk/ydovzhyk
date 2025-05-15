@@ -4,7 +4,7 @@
       <img src="https://github.com/ydovzhyk/ydovzhyk/blob/main/assets/image/YD.png" width="150" alt="Yuriy Dovzhyk" style="border-radius: 50%;" />
     </td>
     <td>
-      <h1>Hi, I'm Yuriy Dovzhyk 👋</h1>
+      <h1>Hi, I'm Yuriy Dovzhyk</h1>
       <p>
         💻 Full Stack Developer | JavaScript · React · Node.js
       </p>
@@ -19,7 +19,9 @@
 
 ## 📊 GitHub Activity & Experience
 
-🧠 Started my IT journey in **January 2023**
+<p>
+  Started my IT journey in **January 2023**
+</p>
 ⏳ That’s over ![Experience](https://img.shields.io/badge/Experience-2.4%20years-blue) of continuous development and learning.
 
 <p align="center">
