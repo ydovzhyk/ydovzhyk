@@ -103,13 +103,6 @@ I transitioned to IT after 16 years in corporate management and now work with st
   </tr>
 </table>
 
-<a href="https://github.com/jstrieb/github-stats">
-
-<img src="https://github.com/ydovzhyk/ydovzhyk/blob/master/generated/overview.svg" alt="GitHub stats overview"/>
-<img src="https://github.com/ydovzhyk/ydovzhyk/blob/master/generated/languages.svg" alt="GitHub languages used"/>
-
-</a>
-
 <p align="center">
   <img width="450" src="https://github-readme-stats.vercel.app/api?username=ydovzhyk&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
