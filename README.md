@@ -5,12 +5,11 @@
 <h1 align="left">Hi, I'm Yuriy Dovzhyk 👋</h1>
 
 <p align="left">
-  💻 Full Stack Developer<br/>
-  🌍 Kyiv, Ukraine<br/>
-  📧 <a href="mailto:ydovzhyk@gmail.com">ydovzhyk@gmail.com</a><br/>
+  💻&nbsp;Full Stack Developer<br/>
+  🌍&nbsp;Kyiv, Ukraine<br/>
+  📧&nbsp;<a href="mailto:ydovzhyk@gmail.com">ydovzhyk@gmail.com</a><br/>
   <img src="https://github.com/ydovzhyk/ydovzhyk/blob/main/assets/image/chrome.png" style="vertical-align: text-bottom; width: 15px; height: 15px;" />
-  &nbsp;
-  <a href="https://ydovzhyk.com">ydovzhyk.com</a><br/><br/>
+  &nbsp;<a href="https://ydovzhyk.com">ydovzhyk.com</a><br/><br/>
 
 
   <a href="https://github.com/ydovzhyk">
