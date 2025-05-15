@@ -7,6 +7,8 @@
       <h1>Hi, I'm Yuriy Dovzhyk 👋</h1>
       <p>
         💻 Full Stack Developer | JavaScript · React · Node.js
+      </p><br>
+      <p>
         🌍 Based in Kyiv, Ukraine | Open to remote and freelance opportunities
       </p>
     </td>
