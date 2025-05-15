@@ -80,11 +80,9 @@ I transitioned to IT after 16 years in corporate management and now work with st
 
 **Explore more 👉 [My GitHub Repos](https://github.com/ydovzhyk?tab=repositories)**
 
- <img src="https://github.com/ydovzhyk/ydovzhyk/blob/main/assets/image/works.gif" alt="Works animation" width="100%" />
-
 </td>
 <td align="center" width="40%">
-
+  <img src="https://github.com/ydovzhyk/ydovzhyk/blob/main/assets/image/works.gif" alt="Works animation" width="100%" />
 </td>
   </tr>
 </table>
