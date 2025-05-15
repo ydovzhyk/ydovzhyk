@@ -68,8 +68,6 @@ I transitioned to IT after 16 years in corporate management and now work with st
 
 ## 🌐 Featured Projects
 
-## 🌐 Featured Projects
-
 <table>
   <tr>
     <td valign="top" width="60%">
