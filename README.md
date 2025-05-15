@@ -63,7 +63,7 @@
 
 ---
 
-## 🚀 About Me
+## 👨‍💼 About Me
 
 I'm a Full Stack Developer with over 2 years of hands-on experience in designing and developing modern, responsive, and user-centric web applications.
 
