@@ -69,21 +69,19 @@ I transitioned to IT after 16 years in corporate management and now work with st
 
 <table>
   <tr>
-    <td valign="top" width="60%">
+    <td valign="center" width="60%">
+      <img src="https://github.com/ydovzhyk/ydovzhyk/blob/main/assets/image/works.gif" alt="Works animation" width="100%" />
+    </td>
+    <td align="center" width="40%">
+      🔹 [Portfolio Website](https://ydovzhyk.com)<br>
+      🔹 [BlueHouse](https://bluehouse-bb.netlify.app) — Reykjavik rental site<br>
+      🔹 [SpeakFlow](https://speakflow.netlify.app) — Real-time voice translation<br>
+      🔹 [Middle Way](https://middleway.in.ua) — School & kindergarten site<br>
+      🔹 [Easy-Shop](https://easy-shop-team.netlify.app) — E-commerce platform<br>
+      🔹 [Notes Organizer](https://notes-organiser-yd.netlify.app) — Full-stack note app<br>
 
-🔹 [Portfolio Website](https://ydovzhyk.com)<br>
-🔹 [BlueHouse](https://bluehouse-bb.netlify.app) — Reykjavik rental site<br>
-🔹 [SpeakFlow](https://speakflow.netlify.app) — Real-time voice translation<br>
-🔹 [Middle Way](https://middleway.in.ua) — School & kindergarten site<br>
-🔹 [Easy-Shop](https://easy-shop-team.netlify.app) — E-commerce platform<br>
-🔹 [Notes Organizer](https://notes-organiser-yd.netlify.app) — Full-stack note app<br>
-
-**Explore more 👉 [My GitHub Repos](https://github.com/ydovzhyk?tab=repositories)**
-
-</td>
-<td align="center" width="40%">
-  <img src="https://github.com/ydovzhyk/ydovzhyk/blob/main/assets/image/works.gif" alt="Works animation" width="100%" />
-</td>
+      **Explore more 👉 [My GitHub Repos](https://github.com/ydovzhyk?tab=repositories)**
+    </td>
   </tr>
 </table>
 
