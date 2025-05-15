@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Yuriy Dovzhyk 👋</h1>
 
-<p align="center">
+<p align="left">
   💻 Full Stack Developer<br/>
   🌍 Kyiv, Ukraine<br/>
   📧 <a href="mailto:ydovzhyk@gmail.com">ydovzhyk@gmail.com</a><br/>
