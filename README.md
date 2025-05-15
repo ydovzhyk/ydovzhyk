@@ -73,7 +73,7 @@ I transitioned to IT after 16 years in corporate management and now work with st
 <td align="center" width="50%">
   <img src="https://github.com/ydovzhyk/ydovzhyk/blob/main/assets/image/works.gif" alt="Works animation" width="100%" />
 </td>
-<td valign="top" width="50%">
+<td valign="center" width="50%">
 
 🔹 [Portfolio Website](https://ydovzhyk.com)<br>
 🔹 [BlueHouse](https://bluehouse-bb.netlify.app) — Reykjavik rental site<br>
