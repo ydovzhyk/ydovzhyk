@@ -7,8 +7,7 @@
 <p align="left">
   💻 Full Stack Developer<br/>
   🌍 Kyiv, Ukraine<br/>
-  📧 <a href="mailto:ydovzhyk@gmail.com">ydovzhyk@gmail.com</a><br/>
-  📱 <a href="tel:+380503562938">+380503562938</a><br/><br/>
+  📧 <a href="mailto:ydovzhyk@gmail.com">ydovzhyk@gmail.com</a><br/><br/>
 
   <a href="https://github.com/ydovzhyk">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
