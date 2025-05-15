@@ -62,12 +62,12 @@ Google APIs · Twilio · OpenAI GPT-4 · SEO · Responsive design · Markdown-ri
 
 ## 🌐 Featured Projects
 
-🔹 [Portfolio Website](https://ydovzhyk.com)
-🔹 [BlueHouse](https://bluehouse-bb.netlify.app) — Reykjavik rental site
-🔹 [SpeakFlow](https://speakflow.netlify.app) — Real-time voice translation
-🔹 [Middle Way](https://middleway.in.ua) — School & kindergarten site
-🔹 [Easy-Shop](https://easy-shop-team.netlify.app) — E-commerce platform
-🔹 [Notes Organizer](https://notes-organiser-yd.netlify.app) — Full-stack note app
+🔹 [Portfolio Website](https://ydovzhyk.com)<br>
+🔹 [BlueHouse](https://bluehouse-bb.netlify.app) — Reykjavik rental site<br>
+🔹 [SpeakFlow](https://speakflow.netlify.app) — Real-time voice translation<br>
+🔹 [Middle Way](https://middleway.in.ua) — School & kindergarten site<br>
+🔹 [Easy-Shop](https://easy-shop-team.netlify.app) — E-commerce platform<br>
+🔹 [Notes Organizer](https://notes-organiser-yd.netlify.app) — Full-stack note app<br>
 
 Explore more 👉 [My GitHub Repos](https://github.com/ydovzhyk?tab=repositories)
 
