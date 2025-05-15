@@ -23,15 +23,15 @@
 ⏳ That’s over ![Experience](https://img.shields.io/badge/Experience-2.4%20years-blue) of continuous development and learning.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ydovzhyk&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img width="450" src="https://github-readme-stats.vercel.app/api?username=ydovzhyk&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ydovzhyk&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ydovzhyk&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ydovzhyk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="450" src="https://streak-stats.demolab.com?user=ydovzhyk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
