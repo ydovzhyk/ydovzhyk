@@ -73,6 +73,7 @@ I transitioned to IT after 16 years in corporate management and now work with st
 <table>
   <tr>
   <td valign="center" width="50%">
+
 🔹 [BlueHouse](https://bluehouse-bb.netlify.app) — Reykjavik rental site<br>
 🔹 [SpeakFlow](https://speakflow.netlify.app) — Real-time voice translation<br>
 🔹 [Middle Way](https://middleway.in.ua) — School & kindergarten site<br>
@@ -85,6 +86,7 @@ I transitioned to IT after 16 years in corporate management and now work with st
 🔹 [Event Booster](https://ydovzhyk.github.io/eventbooster_team_project/) — Event discovery platform<br>
 
 **Explore more 👉 [My GitHub Repos](https://github.com/ydovzhyk?tab=repositories)**
+
 </td>
 <td align="center" width="50%">
   <img src="https://github.com/ydovzhyk/ydovzhyk/blob/main/assets/image/works.gif" alt="Works animation" width="100%" />
