@@ -73,16 +73,18 @@ I transitioned to IT after 16 years in corporate management and now work with st
 <table>
   <tr>
   <td valign="center" width="50%">
-
-🔹 [Portfolio Website](https://ydovzhyk.com)<br>
 🔹 [BlueHouse](https://bluehouse-bb.netlify.app) — Reykjavik rental site<br>
 🔹 [SpeakFlow](https://speakflow.netlify.app) — Real-time voice translation<br>
 🔹 [Middle Way](https://middleway.in.ua) — School & kindergarten site<br>
+🔹 [Art Studio Dental](https://asdental.org) — Multilingual dental clinic website<br>
+🔹 [Booking Apartment](https://bookingapart.netlify.app) — Apartment booking w/ chat & filters<br>
 🔹 [Easy-Shop](https://easy-shop-team.netlify.app) — E-commerce platform<br>
 🔹 [Notes Organizer](https://notes-organiser-yd.netlify.app) — Full-stack note app<br>
+🔹 [Slim Mom](https://ydovzhyk.github.io/frontend-slimmom/) — Nutrition tracker<br>
+🔹 [Kapu$ta](https://ydovzhyk.github.io/frontend-kapusta-dev/) — Personal finance tracker<br>
+🔹 [Event Booster](https://ydovzhyk.github.io/eventbooster_team_project/) — Event discovery platform<br>
 
 **Explore more 👉 [My GitHub Repos](https://github.com/ydovzhyk?tab=repositories)**
-
 </td>
 <td align="center" width="50%">
   <img src="https://github.com/ydovzhyk/ydovzhyk/blob/main/assets/image/works.gif" alt="Works animation" width="100%" />
