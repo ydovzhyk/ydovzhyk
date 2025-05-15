@@ -1,4 +1,6 @@
-<img  src="https://github.com/ydovzhyk/ydovzhyk/blob/main/assets/image/logo.png" height="290px" align="right" />
+<p align="center">
+  <img src="https://github.com/ydovzhyk/ydovzhyk/blob/main/assets/image/logo.png" width="100%" alt="Yuriy Dovzhyk Banner"/>
+</p>
 
 <h1 align="left">Hi, I'm Yuriy Dovzhyk 👋</h1>
 
