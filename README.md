@@ -18,6 +18,7 @@
   🧑‍💻 Open to remote and freelance opportunities
 </p>
 
+![](https://komarev.com/ghpvc/?username=ydovzhyk&color=brightgreen)
 
 ---
 
