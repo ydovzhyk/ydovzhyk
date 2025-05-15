@@ -1,8 +1,8 @@
 <table>
   <tr>
-    <td width="160">
+    <!-- <td width="160">
       <img src="https://github.com/ydovzhyk/ydovzhyk/blob/main/assets/image/YD.png" width="150" alt="Yuriy Dovzhyk" style="border-radius: 50%;" />
-    </td>
+    </td> -->
     <td>
       <h1>Hi, I'm Yuriy Dovzhyk</h1>
       <p>
