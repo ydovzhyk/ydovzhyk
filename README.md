@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ydovzhyk/ydovzhyk/blob/main/assets/image/logo.png" width="100%" alt="Yuriy Dovzhyk Banner"/>
+  <img src="https://github.com/ydovzhyk/ydovzhyk/blob/main/assets/image/banner.png" width="100%" height="320px" alt="Yuriy Dovzhyk Banner"/>
 </p>
 
 <h1 align="left">Hi, I'm Yuriy Dovzhyk 👋</h1>
