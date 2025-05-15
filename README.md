@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify"/>
 </p>
-<div style="display: inline-flex; width: 160px; height: 40px; align-items: center; justify-content: center; margin: 4px;">
+<div style="display: inline-flex; width: 300px; height: 40px; align-items: center; justify-content: center; margin: 4px;">
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify"/>
 </div>
 
