@@ -22,6 +22,7 @@
 <p>
   Started my IT journey in **January 2023**
 </p>
+
 ⏳ That’s over ![Experience](https://img.shields.io/badge/Experience-2.4%20years-blue) of continuous development and learning.
 
 <p align="center">
