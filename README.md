@@ -1,10 +1,24 @@
-<h1>Hi, I'm Yuriy Dovzhyk</h1>
-<p>
-  💻 Full Stack Developer | JavaScript · React · Node.js
+<h1 align="center">Hi, I'm Yuriy Dovzhyk 👋</h1>
+
+<p align="center">
+  💻 Full Stack Developer<br/>
+  🌍 Kyiv, Ukraine<br/>
+  📧 <a href="mailto:ydovzhyk@gmail.com">ydovzhyk@gmail.com</a><br/>
+  📱 <a href="tel:+380503562938">+380503562938</a><br/><br/>
+
+  <a href="https://github.com/ydovzhyk">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/yuriy-dovzhyk/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.facebook.com/ydovzhyk/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a><br/><br/>
+
+  🧑‍💻 Open to remote and freelance opportunities
 </p>
-<p>
-  🌍 Based in Kyiv, Ukraine | Open to remote and freelance opportunities
-</p>
+
 
 ---
 
@@ -26,6 +40,7 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
   <img src="https://img.shields.io/badge/REST--API-FF6F00?style=flat-square&logo=api&logoColor=white" alt="REST API"/>
+  <img src="https://img.shields.io/badge/OpenAI_API-4B4B4B?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API"/>
   <img src="https://img.shields.io/badge/WebSocket-008080?style=flat-square&logo=websockets&logoColor=white" alt="WebSocket"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
@@ -34,9 +49,6 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify"/>
 </p>
-<div style="display: inline-flex; width: 300px; height: 40px; align-items: center; justify-content: center; margin: 4px;">
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify"/>
-</div>
 
 ---
 
