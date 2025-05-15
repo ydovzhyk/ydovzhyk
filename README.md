@@ -7,9 +7,9 @@
 <p align="left">
   💻 Full Stack Developer<br/>
   🌍 Kyiv, Ukraine<br/>
-  📧 <a href="mailto:ydovzhyk@gmail.com">ydovzhyk@gmail.com</a><br/><br/>
-  <img src="https://img.icons8.com/color/16/000000/google-chrome--v1.png" style="vertical-align: text-bottom; margin-right: 4px;" />
-<a href="https://ydovzhyk.com">ydovzhyk.com</a><br/>
+  📧 <a href="mailto:ydovzhyk@gmail.com">ydovzhyk@gmail.com</a><br/>
+  <img src="https://github.com/ydovzhyk/ydovzhyk/blob/main/assets/image/chrome.jpg" style="vertical-align: text-bottom; margin-right: 4px;" />
+<a href="https://ydovzhyk.com">ydovzhyk.com</a><br/><br/>
 
 
   <a href="https://github.com/ydovzhyk">
