@@ -26,8 +26,8 @@
 
 <!-- ![](https://komarev.com/ghpvc/?username=ydovzhyk&color=brightgreen) -->
 <div align="center">
-  <a href="https://u8views.com/github/ydovzhyk"><img src="https://u8views.com/api/v1/github/profiles/115802889/views/day-week-month-total-count.svg"></a>
-  </div>
+  <a href="https://u8views.com/github/ydovzhyk"><img src="https://u8views.com/api/v1/github/profiles/48929257/views/day-week-month-total-count.svg"></a>
+</div>
 
 ---
 
