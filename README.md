@@ -9,7 +9,7 @@
   🌍 Kyiv, Ukraine<br/>
   📧 <a href="mailto:ydovzhyk@gmail.com">ydovzhyk@gmail.com</a><br/>
   <img src="https://github.com/ydovzhyk/ydovzhyk/blob/main/assets/image/chrome.png" style="vertical-align: text-bottom; width: 15px; height: 15px;" />
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://ydovzhyk.com">ydovzhyk.com</a><br/><br/>
 
 
