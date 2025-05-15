@@ -20,12 +20,15 @@
 ## 📊 GitHub Activity & Experience
 
 <p>
-  Started my IT journey in <strong>January 2023</strong><br/>
-  ⏳ <span style="display: inline-flex; align-items: center;">
-    <img src="https://img.shields.io/badge/Experience-2.4%20years-blue" alt="Experience" style="vertical-align: middle;"/>
-    <span style="margin-left: 8px;">of continuous development and learning.</span>
-  </span>
+  Started my IT journey in **January 2023**
 </p>
+
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Experience-2.4%20years-blue" alt="Experience badge" /></td>
+    <td style="padding-left: 10px;">of continuous development and learning.</td>
+  </tr>
+</table>
 
 <p align="center">
   <img width="450" src="https://github-readme-stats.vercel.app/api?username=ydovzhyk&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
