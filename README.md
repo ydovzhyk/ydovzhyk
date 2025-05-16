@@ -115,7 +115,7 @@ I transitioned to IT after 16 years in corporate management and now work with st
   </tr>
 </table>
 
-<p align="center">
+<!-- <p align="center">
   <img width="450" src="https://github-readme-stats.vercel.app/api?username=ydovzhyk&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
@@ -125,7 +125,7 @@ I transitioned to IT after 16 years in corporate management and now work with st
 
 <p align="center">
   <img width="450" src="https://streak-stats.demolab.com?user=ydovzhyk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+</p> -->
 
 <table>
   <tr>
@@ -143,7 +143,7 @@ I transitioned to IT after 16 years in corporate management and now work with st
   <tr>
     <td colspan="2" align="center">
       <p align="center">
-        <img width="800" height="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ydovzhyk&layout=compact&theme=tokyonight" alt="Top Languages" />
+        <img width="800" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ydovzhyk&layout=compact&theme=tokyonight" alt="Top Languages" />
       </p>
     </td>
   </tr>
