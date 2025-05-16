@@ -142,7 +142,7 @@ I transitioned to IT after 16 years in corporate management and now work with st
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <p align="center">
+      <p align="center" borderColor="red">
         <img width="400" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ydovzhyk&layout=compact&theme=tokyonight" alt="Top Languages" />
       </p>
     </td>
