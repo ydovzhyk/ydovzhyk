@@ -139,7 +139,7 @@ I transitioned to IT after 16 years in corporate management and now work with st
   <img width="400" src="https://streak-stats.demolab.com?user=ydovzhyk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 </td>
-<td align="center" width="100%">
+<td align="center" width="800">
 <p align="center">
   <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ydovzhyk&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
