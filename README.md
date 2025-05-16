@@ -96,7 +96,6 @@ I transitioned to IT after 16 years in corporate management and now work with st
 <td align="center" width="50%">
   <img src="https://github.com/ydovzhyk/ydovzhyk/blob/main/assets/image/works.gif" alt="Works animation" width="100%" />
 </td>
-
   </tr>
 </table>
 
@@ -115,18 +114,6 @@ I transitioned to IT after 16 years in corporate management and now work with st
   </tr>
 </table>
 
-<!-- <p align="center">
-  <img width="450" src="https://github-readme-stats.vercel.app/api?username=ydovzhyk&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ydovzhyk&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img width="450" src="https://streak-stats.demolab.com?user=ydovzhyk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p> -->
-
 <table>
   <tr>
     <td valign="center" width="50%">
@@ -142,7 +129,7 @@ I transitioned to IT after 16 years in corporate management and now work with st
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <p align="center" borderColor="red">
+      <p align="center">
         <img width="400" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ydovzhyk&layout=compact&theme=tokyonight" alt="Top Languages" />
       </p>
     </td>
@@ -151,6 +138,6 @@ I transitioned to IT after 16 years in corporate management and now work with st
 
 ---
 
-_“Building real solutions, not just writing code.”_<br/>
+_**“Building real solutions, not just writing code.”_<br/>
 
 Last update: _04/15/2025_
