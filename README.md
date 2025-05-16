@@ -138,6 +138,6 @@ I transitioned to IT after 16 years in corporate management and now work with st
 
 ---
 
-_**“Building real solutions, not just writing code.”_<br/>
+_“Building real solutions, not just writing code.”_<br/>
 
 Last update: _04/15/2025_
