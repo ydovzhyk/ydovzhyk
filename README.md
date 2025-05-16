@@ -127,6 +127,27 @@ I transitioned to IT after 16 years in corporate management and now work with st
   <img width="450" src="https://streak-stats.demolab.com?user=ydovzhyk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
+<table>
+  <tr>
+  <td valign="center" width="50%">
+<p align="center">
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=ydovzhyk&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+</td>
+<td align="center" width="50%">
+<p align="center">
+  <img width="400" src="https://streak-stats.demolab.com?user=ydovzhyk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+</td>
+<td align="center" width="100%">
+<p align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ydovzhyk&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+</td>
+
+  </tr>
+</table>
+
 ---
 
 _“Building real solutions, not just writing code.”_<br/>
