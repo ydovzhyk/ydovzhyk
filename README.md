@@ -79,6 +79,7 @@ I transitioned to IT after 16 years in corporate management and now work with st
   <tr>
   <td valign="center" width="50%">
 
+🔹 [PinkSkirt](https://pinkskirt.uk) — A studio in a new format<br>
 🔹 [BlueHouse](https://bluehouse-bb.netlify.app) — Reykjavik rental site<br>
 🔹 [SpeakFlow](https://speakflow.netlify.app) — Real-time voice translation<br>
 🔹 [Middle Way](https://middleway.in.ua) — School & kindergarten site<br>
