@@ -82,7 +82,7 @@ I transitioned to IT after 16 years in corporate management and now work with st
 🔹 [PinkSkirt](https://pinkskirt.uk) — A studio in a new format<br>
 🔹 [BlueHouse](https://bluehouse-bb.netlify.app) — Reykjavik rental site<br>
 🔹 [SpeakFlow](https://speakflow.netlify.app) — Real-time voice translation<br>
-🔹 [Middle Way](https://middleway.in.ua) — School & kindergarten site<br>
+🔹 [Middle Way](https://middleway-in-ua.netlify.app) — School & kindergarten site<br>
 🔹 [Art Studio Dental](https://asdental.org) — Multilingual dental clinic website<br>
 🔹 [Booking Apartment](https://bookingapart.netlify.app) — Apartment booking w/ chat & filters<br>
 🔹 [Easy-Shop](https://easy-shop-team.netlify.app) — E-commerce platform<br>
