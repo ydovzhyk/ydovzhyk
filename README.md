@@ -60,7 +60,8 @@
   <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white" alt="Heroku"/>
   <img src="https://img.shields.io/badge/Namecheap-orange?style=flat-square&logo=namecheap&logoColor=white" alt="Namecheap"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
-
+  <img src="https://img.shields.io/badge/SendGrid-0A9EDC?style=flat-square&logo=sendgrid&logoColor=white" alt="SendGrid"/>
+  <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" alt="Twilio"/>
 </p>
 
 ---
