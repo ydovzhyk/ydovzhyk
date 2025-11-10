@@ -116,9 +116,9 @@ I transitioned to IT after 16 years in corporate management and now work with st
 <table>
   <tr>
     <td style="vertical-align: middle;">
-      <div align="center" style="margin-bottom: -2px;">
+      <div align="center">
         <img src="https://img.shields.io/badge/Experience-2.86%20years-blue"
-        style="height: 28px; vertical-align: middle;"
+        style="height: 25px; vertical-align: middle; margin-bottom: -3px;"
         alt="Experience badge"/>
       </div>
     </td>
