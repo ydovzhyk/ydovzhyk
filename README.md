@@ -21,8 +21,13 @@
   <a href="https://www.facebook.com/ydovzhyk/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/>
   </a><br/><br/>
-  🧑‍💻 Open to remote and freelance opportunities
 </p>
+
+---
+
+## 🧑‍💻 Open to remote and freelance opportunities
+
+---
 
 <!-- ![](https://komarev.com/ghpvc/?username=ydovzhyk&color=brightgreen) -->
 <div align="center">
