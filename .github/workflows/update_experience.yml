@@ -1,0 +1,44 @@
+name: Update Experience
+
+on:
+  schedule:
+    - cron: "0 0 1 * *"  # раз на місяць, 1-го числа
+  workflow_dispatch:      # можна запустити вручну
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Calculate experience and update README
+        run: |
+          # дата старту
+          START_DATE="2023-01-01"
+
+          # поточний час у секундах
+          NOW=$(date +%s)
+          START=$(date -d "$START_DATE" +%s)
+
+          # 1 рік ~ 365.2425 днів = 31556952 секунд
+          YEARS=$(echo "scale=2; ($NOW - $START)/31556952" | bc)
+
+          echo "Calculated experience: $YEARS years"
+
+          # підставляємо в README замість XX.YY
+          sed -i "s/Experience-XX.YY%20years-blue/Experience-${YEARS}%20years-blue/" README.md
+
+      - name: Commit and push if changed
+        run: |
+          if [[ -n $(git status --porcelain) ]]; then
+            git config user.name "github-actions"
+            git config user.email "actions@github.com"
+            git add README.md
+            git commit -m "chore: update experience badge"
+            git push
+          else
+            echo "No changes, nothing to commit."
+          fi
+
