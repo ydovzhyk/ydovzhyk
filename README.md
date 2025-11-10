@@ -100,7 +100,7 @@ I transitioned to IT after 16 years in corporate management and now work with st
 
 </td>
 <td align="center" width="50%">
-  <img src="https://github.com/ydovzhyk/ydovzhyk/blob/main/assets/image/works.gif" alt="Works animation" width="100%" height="100%" />
+  <img src="https://github.com/ydovzhyk/ydovzhyk/blob/main/assets/image/works.gif" alt="Works animation" width="100%" />
 </td>
   </tr>
 </table>
@@ -115,7 +115,7 @@ I transitioned to IT after 16 years in corporate management and now work with st
 
 <table>
   <tr>
-    <td>
+    <td valign="center" width="50%">
       <img src="https://img.shields.io/badge/Experience-2.86%20years-blue" alt="Experience badge" />
     </td>
     <td style="padding-left: 10px;">of continuous development and learning.</td>
