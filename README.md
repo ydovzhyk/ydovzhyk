@@ -115,10 +115,12 @@ I transitioned to IT after 16 years in corporate management and now work with st
 
 <table>
   <tr>
-    <td style="width: 190px; display: flex; justify-content: center; align-items: center;">
-      <img src="https://img.shields.io/badge/Experience-2.86%20years-blue" alt="Experience badge" />
+    <td width="190" style="vertical-align: middle;">
+      <p align="center" style="margin: 0;">
+        <img src="https://img.shields.io/badge/Experience-2.86%20years-blue" alt="Experience badge" />
+      </p>
     </td>
-    <td style="vertical-align: middle; padding-left: 10px;">
+    <td style="padding-left: 10px; vertical-align: middle;">
       of continuous development and learning.
     </td>
   </tr>
