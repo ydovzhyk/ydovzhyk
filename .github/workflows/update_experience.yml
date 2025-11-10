@@ -1,17 +1,24 @@
 name: Update Experience
 
 on:
+  push:
+    branches: ["main"]   # або "master" — якщо в тебе головна гілка так називається
   schedule:
-    - cron: "0 0 1 * *"  # оновлювати 1-го числа щомісяця
-  workflow_dispatch:      # можна запустити вручну з вкладки Actions
+    - cron: "0 0 1 * *"  # оновлювати 1-го числа кожного місяця (UTC)
+  workflow_dispatch:      # можливість запустити вручну з Actions
 
 jobs:
   update:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write   # <-- дає github-actions[bot] право пушити у репозиторій
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.TOKEN_GITHUB }}
 
       - name: Calculate experience and update README
         run: |
@@ -33,13 +40,14 @@ jobs:
       - name: Commit and push if changed
         run: |
           if [[ -n $(git status --porcelain) ]]; then
-            git config user.name "github-actions"
-            git config user.email "actions@github.com"
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git add README.md
             git commit -m "chore: update experience badge"
             git push
           else
             echo "No changes, nothing to commit."
           fi
+
 
 
