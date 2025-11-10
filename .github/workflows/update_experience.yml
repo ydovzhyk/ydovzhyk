@@ -1,10 +1,10 @@
-name: Update Experience
+# name: Update Experience
 
 on:
   push:
-    branches: ["main"]   # або "master" — якщо в тебе головна гілка так називається
+    branches: ["main"]
   schedule:
-    - cron: "0 0 1 * *"  # оновлювати 1-го числа кожного місяця (UTC)
+    - cron: "0 0 * * *"   # кожен день о 00:00 UTC
   workflow_dispatch:      # можливість запустити вручну з Actions
 
 jobs:
@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
 
     permissions:
-      contents: write   # <-- дає github-actions[bot] право пушити у репозиторій
+      contents: write
 
     steps:
       - name: Checkout repo
@@ -34,8 +34,15 @@ jobs:
 
           echo "Calculated experience: $YEARS years"
 
+          # поточна дата у форматі MM/DD/YYYY
+          DATE_STR=$(date +"%m/%d/%Y")
+          echo "Current date: $DATE_STR"
+
           # підставляємо в README замість XX.YY (працює і з %20, і з пробілом)
           sed -i -E "s/Experience[- ]XX\.YY(%20)?years/Experience-${YEARS}%20years/g" README.md
+
+          # підставляємо дату в рядок "Last update: _..._"
+          sed -i -E "s/Last update: _[0-9]{2}\/[0-9]{2}\/[0-9]{4}_/Last update: _${DATE_STR}_/g" README.md
 
       - name: Commit and push if changed
         run: |
@@ -43,11 +50,12 @@ jobs:
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git add README.md
-            git commit -m "chore: update experience badge"
+            git commit -m "chore: update experience badge and date"
             git push
           else
             echo "No changes, nothing to commit."
           fi
+
 
 
 
