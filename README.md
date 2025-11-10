@@ -113,18 +113,10 @@ I transitioned to IT after 16 years in corporate management and now work with st
   Started my IT journey in **January 2023**
 </p>
 
-<table>
-  <tr>
-    <td width="190" style="vertical-align: middle;">
-      <p align="center" style="margin: 0;">
-        <img src="https://img.shields.io/badge/Experience-2.86%20years-blue" alt="Experience badge" />
-      </p>
-    </td>
-    <td style="padding-left: 10px; vertical-align: middle;">
-      of continuous development and learning.
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-2.86%20years-blue" alt="Experience badge" />
+  &nbsp; of continuous development and learning.
+</p>
 
 <table>
   <tr>
