@@ -23,12 +23,16 @@
   </a><br/><br/>
 </p>
 
-## 🧑‍💻 Open to remote and freelance opportunities
+<h1 align="left">🧑‍💻 Open to remote and freelance opportunities</h1>
+
+---
 
 <!-- ![](https://komarev.com/ghpvc/?username=ydovzhyk&color=brightgreen) -->
 <div align="center">
   <a href="https://u8views.com/github/ydovzhyk"><img src="https://u8views.com/api/v1/github/profiles/48929257/views/day-week-month-total-count.svg"></a>
 </div>
+
+---
 
 ## 🛠️ Languages and Tools:
 
