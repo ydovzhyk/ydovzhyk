@@ -23,7 +23,7 @@
   </a><br/><br/>
 </p>
 
-<font size="4"><b>🧑‍💻 Open to remote and freelance opportunities</b></font>
+<font size="5"><b>🧑‍💻 Open to remote and freelance opportunities</b></font>
 
 ---
 
