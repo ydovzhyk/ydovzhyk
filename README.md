@@ -115,10 +115,12 @@ I transitioned to IT after 16 years in corporate management and now work with st
 
 <table>
   <tr>
-    <td>
-      <img src="https://img.shields.io/badge/Experience-2.86%20years-blue" alt="Experience badge" width="100%" height="100%"/>
+    <td align="center" valign="middle">
+      <img src="https://img.shields.io/badge/Experience-2.86%20years-blue" alt="Experience badge"/>
     </td>
-    <td style="padding-left: 10px;">of continuous development and learning.</td>
+    <td align="left" style="padding-left: 10px;">
+      of continuous development and learning.
+    </td>
   </tr>
 </table>
 
