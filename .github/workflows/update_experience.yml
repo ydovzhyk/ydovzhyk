@@ -1,4 +1,4 @@
-# name: Update Experience
+name: Update Experience
 
 on:
   push:
@@ -34,15 +34,15 @@ jobs:
 
           echo "Calculated experience: $YEARS years"
 
-          # поточна дата у форматі MM/DD/YYYY
-          DATE_STR=$(date +"%m/%d/%Y")
+          # поточна дата у форматі: 10 Nov 2025
+          DATE_STR=$(date +"%d %b %Y")
           echo "Current date: $DATE_STR"
 
           # підставляємо в README замість XX.YY (працює і з %20, і з пробілом)
           sed -i -E "s/Experience[- ]XX\.YY(%20)?years/Experience-${YEARS}%20years/g" README.md
 
-          # підставляємо дату в рядок "Last update: _..._"
-          sed -i -E "s/Last update: _[0-9]{2}\/[0-9]{2}\/[0-9]{4}_/Last update: _${DATE_STR}_/g" README.md
+          # підставляємо дату у форматі "10 Nov 2025"
+          sed -i -E "s|Last update: _[0-9]{2} [A-Za-z]{3} [0-9]{4}_|Last update: _${DATE_STR}_|g" README.md
 
       - name: Commit and push if changed
         run: |
@@ -55,6 +55,7 @@ jobs:
           else
             echo "No changes, nothing to commit."
           fi
+
 
 
 
