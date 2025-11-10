@@ -22,7 +22,6 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/>
   </a><br/><br/>
 </p>
-
 <font size="5"><b>🧑‍💻 Open to remote and freelance opportunities</b></font>
 
 ---
