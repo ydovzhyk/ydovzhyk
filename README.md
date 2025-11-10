@@ -11,7 +11,6 @@
   <img src="https://github.com/ydovzhyk/ydovzhyk/blob/main/assets/image/chrome.png" style="vertical-align: text-bottom; width: 15px; height: 15px;" />
   &nbsp;<a href="https://ydovzhyk.com">ydovzhyk.com</a><br/><br/>
 
-
   <a href="https://github.com/ydovzhyk">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
@@ -21,7 +20,6 @@
   <a href="https://www.facebook.com/ydovzhyk/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/>
   </a><br/><br/>
-
 
   <font size="5"><b>🧑‍💻 Open to remote and freelance opportunities</b></font>
 </p>
@@ -151,3 +149,4 @@ I transitioned to IT after 16 years in corporate management and now work with st
 _“Building real solutions, not just writing code.”_<br/>
 
 Last update: _04/15/2025_
+

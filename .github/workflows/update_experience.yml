@@ -2,8 +2,8 @@ name: Update Experience
 
 on:
   schedule:
-    - cron: "0 0 1 * *"  # раз на місяць, 1-го числа
-  workflow_dispatch:      # можна запустити вручну
+    - cron: "0 0 1 * *"  # оновлювати 1-го числа щомісяця
+  workflow_dispatch:      # можна запустити вручну з вкладки Actions
 
 jobs:
   update:
@@ -27,8 +27,8 @@ jobs:
 
           echo "Calculated experience: $YEARS years"
 
-          # підставляємо в README замість XX.YY
-          sed -i "s/Experience-XX.YY%20years-blue/Experience-${YEARS}%20years-blue/" README.md
+          # підставляємо в README замість XX.YY (працює і з %20, і з пробілом)
+          sed -i -E "s/Experience[- ]XX\.YY(%20)?years/Experience-${YEARS}%20years/g" README.md
 
       - name: Commit and push if changed
         run: |
@@ -41,4 +41,5 @@ jobs:
           else
             echo "No changes, nothing to commit."
           fi
+
 
