@@ -115,14 +115,11 @@ I transitioned to IT after 16 years in corporate management and now work with st
 
 <table>
   <tr>
-    <td style="padding: 0; width: 200px;">
-      <div style="display: flex; justify-content: center; align-items: center; height: 28px;">
-        <a href="#">
-          <img
-            src="https://img.shields.io/badge/Experience-2.86%20years-blue?style=flat-square"
-            alt="Experience badge"
-          />
-        </a>
+    <td>
+      <div style="margin-bottom: 5px;">
+        <img src="https://img.shields.io/badge/Experience-2.86%20years-blue"
+        style="height: 24px; vertical-align: middle;"
+        alt="Experience badge"/>
       </div>
     </td>
     <td style="vertical-align: middle; padding-left: 10px;">
@@ -130,7 +127,6 @@ I transitioned to IT after 16 years in corporate management and now work with st
     </td>
   </tr>
 </table>
-
 
 <table>
   <tr>
