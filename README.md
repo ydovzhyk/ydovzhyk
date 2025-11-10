@@ -23,11 +23,7 @@
   </a><br/><br/>
 </p>
 
----
-
 ## 🧑‍💻 Open to remote and freelance opportunities
-
----
 
 <!-- ![](https://komarev.com/ghpvc/?username=ydovzhyk&color=brightgreen) -->
 <div align="center">
