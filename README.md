@@ -154,5 +154,5 @@ I transitioned to IT after 16 years in corporate management and now work with st
 
 _“Building real solutions, not just writing code.”_<br/>
 
-Last update: _06 Dec 2025_
+Last update: _07 Dec 2025_
 
