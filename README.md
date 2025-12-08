@@ -85,7 +85,7 @@ I transitioned to IT after 16 years in corporate management and now work with st
        width="95%" alt="SpeakFlow Preview"/>
 </p>
 
-I'm currently building **[SpeakFlow](https://speakflow.space)** — a real-time AI-powered transcription & translation tool.
+I'm currently building **[SpeakFlow](https://speakflow.space)** - a real-time AI-powered transcription & translation tool.
 
 ✨ **Key features:**
 
