@@ -78,6 +78,30 @@ I transitioned to IT after 16 years in corporate management and now work with st
 
 ---
 
+## 🔧 Current Project — SpeakFlow
+
+<p align="center">
+  <img src="https://github.com/ydovzhyk/ydovzhyk/blob/main/assets/image/speak-flow.png"
+       width="95%" alt="SpeakFlow Preview"/>
+</p>
+
+I'm currently building **[SpeakFlow](https://speakflow.space)** — a real-time AI-powered transcription & translation tool.
+
+✨ **Key features:**
+
+- 🎙️ Live audio transcription (Deepgram)
+- 🌍 Real-time translation (OpenAI + WebSockets)
+- 🖥️ Modern UI built with Next.js + Tailwind
+- 🔐 Authentication, settings panel, language controls
+- 📂 Recording history and session tracking
+- 📱 Multi-device pairing (desktop ↔ mobile)
+
+🛠 **Tech stack:** Next.js, Node.js, WebSockets, Deepgram, OpenAI GPT-4o, Tailwind, Redux Toolkit
+📦 **Status:** actively developing new features
+🌐 **Live demo:** https://speakflow.space/
+
+---
+
 ## 🌐 Featured Projects
 
 <table>
