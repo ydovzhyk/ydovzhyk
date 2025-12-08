@@ -178,5 +178,5 @@ I'm currently building **[SpeakFlow](https://speakflow.space)** — a real-time 
 
 _“Building real solutions, not just writing code.”_<br/>
 
-Last update: _10 Nov 2025_
+Last update: _08 Dec 2025_
 
