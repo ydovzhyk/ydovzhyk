@@ -94,11 +94,10 @@ I'm currently building **[SpeakFlow](https://speakflow.space)** — a real-time 
 - 🖥️ Modern UI built with Next.js + Tailwind
 - 🔐 Authentication, settings panel, language controls
 - 📂 Recording history and session tracking
-- 📱 Multi-device pairing (desktop ↔ mobile)
 
 🛠 **Tech stack:** Next.js, Node.js, WebSockets, Deepgram, OpenAI GPT-4o, Tailwind, Redux Toolkit
+
 📦 **Status:** actively developing new features
-🌐 **Live demo:** https://speakflow.space/
 
 ---
 
