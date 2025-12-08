@@ -78,7 +78,7 @@ I transitioned to IT after 16 years in corporate management and now work with st
 
 ---
 
-## 🔧 Current Project — SpeakFlow
+## 🔧 Current Project - SpeakFlow
 
 <p align="center">
   <img src="https://github.com/ydovzhyk/ydovzhyk/blob/main/assets/image/speak-flow.png"
