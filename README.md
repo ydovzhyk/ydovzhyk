@@ -19,19 +19,19 @@
   </a>
   <a href="https://www.facebook.com/ydovzhyk/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a><br/><br/>
+  </a><br/>
 
   <font size="5"><b>🧑‍💻 Open to remote and freelance opportunities</b></font>
 </p>
 
----
+##
 
 <!-- ![](https://komarev.com/ghpvc/?username=ydovzhyk&color=brightgreen) -->
 <div align="center">
   <a href="https://u8views.com/github/ydovzhyk"><img src="https://u8views.com/api/v1/github/profiles/48929257/views/day-week-month-total-count.svg"></a>
 </div>
 
----
+##
 
 ## 🛠️ Languages and Tools:
 
