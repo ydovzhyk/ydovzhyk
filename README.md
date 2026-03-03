@@ -167,7 +167,7 @@ I'm currently building **[SpeakFlow](https://speakflow.space)** - a real-time AI
   <tr>
     <td>
       <div style="margin-bottom: 5px;">
-        <img src="https://img.shields.io/badge/Experience-2.86%20years-blue"
+        <img src="https://img.shields.io/badge/Experience-3.1%20years-blue"
         style="height: 24px; vertical-align: middle;"
         alt="Experience badge"/>
       </div>
