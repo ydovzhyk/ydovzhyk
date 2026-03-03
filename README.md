@@ -78,7 +78,33 @@ I transitioned to IT after 16 years in corporate management and now work with st
 
 ---
 
-## 🔧 Current Project - SpeakFlow
+## 🎥 Current Project - MyTube
+
+<p align="center">
+  <img src="https://github.com/ydovzhyk/ydovzhyk/blob/main/assets/image/my-tube.png"
+       width="95%" alt="MyTube Preview"/>
+</p>
+
+MyTube is a full-stack YouTube-inspired platform built with a production-level architecture.
+
+✨ **Key features:**
+
+- 🎬 Video upload with server-side FFmpeg transcoding (360p / 480p / 720p)
+- ☁️ Firebase Storage integration
+- 🔐 JWT authentication with refresh flow (HttpOnly cookies)
+- 👤 Guest vs Registered user logic (Visitor system)
+- 👍 Reactions, comments (with pin logic), playlists
+- 📺 Persistent global video player (mini-player + queue system)
+- 🔄 Infinite scroll & server-side pagination
+- 🧠 Smart watch history & recommendation filtering
+
+🛠 **Tech stack:** Next.js (App Router), Redux Toolkit, Node.js, Express, MongoDB, Mongoose, Firebase, FFmpeg
+
+📦 **Status:** Actively improving playback performance & scaling architecture
+
+---
+
+## 🚀 Founder Project - SpeakFlow
 
 <p align="center">
   <img src="https://github.com/ydovzhyk/ydovzhyk/blob/main/assets/image/speak-flow.png"
