@@ -100,7 +100,7 @@ MyTube is a full-stack YouTube-inspired platform built with a production-level a
 
 🛠 **Tech stack:** Next.js (App Router), Redux Toolkit, Node.js, Express, MongoDB, Mongoose, Firebase, FFmpeg
 
-📦 **Status:** Actively improving playback performance & scaling architecture
+📦 **Status:** Actively developing core pages and features
 
 ---
 
