@@ -4,8 +4,8 @@ on:
   push:
     branches: ["main"]
   schedule:
-    - cron: "0 0 * * *"   # кожен день о 00:00 UTC
-  workflow_dispatch:      # можливість запустити вручну з Actions
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   update:
@@ -20,28 +20,61 @@ jobs:
         with:
           token: ${{ secrets.TOKEN_GITHUB }}
 
-      - name: Calculate experience and update README
+      - name: Calculate experience and update files
         run: |
-          # дата старту
-          START_DATE="2023-01-01"
+          START_DATE="2023-02-01"
+          TODAY=$(date +%F)
 
-          # поточний час у секундах
-          NOW=$(date +%s)
-          START=$(date -d "$START_DATE" +%s)
+          START_YEAR=$(date -d "$START_DATE" +%Y)
+          START_MONTH=$(date -d "$START_DATE" +%m)
+          START_DAY=$(date -d "$START_DATE" +%d)
 
-          # 1 рік ~ 365.2425 днів = 31556952 секунд
-          YEARS=$(echo "scale=2; ($NOW - $START)/31556952" | bc)
+          CURRENT_YEAR=$(date -d "$TODAY" +%Y)
+          CURRENT_MONTH=$(date -d "$TODAY" +%m)
+          CURRENT_DAY=$(date -d "$TODAY" +%d)
 
-          echo "Calculated experience: $YEARS years"
+          TOTAL_MONTHS=$(( (10#$CURRENT_YEAR - 10#$START_YEAR) * 12 + (10#$CURRENT_MONTH - 10#$START_MONTH) ))
 
-          # поточна дата у форматі: 10 Nov 2025
+          if [ "$CURRENT_DAY" -lt "$START_DAY" ]; then
+            TOTAL_MONTHS=$((TOTAL_MONTHS - 1))
+          fi
+
+          YEARS=$((TOTAL_MONTHS / 12))
+          MONTHS=$((TOTAL_MONTHS % 12))
+
+          if [ "$YEARS" -eq 1 ]; then
+            YEARS_LABEL="year"
+          else
+            YEARS_LABEL="years"
+          fi
+
+          if [ "$MONTHS" -eq 1 ]; then
+            MONTHS_LABEL="month"
+          else
+            MONTHS_LABEL="months"
+          fi
+
+          if [ "$MONTHS" -eq 0 ]; then
+            EXPERIENCE_TEXT="${YEARS} ${YEARS_LABEL}"
+          else
+            EXPERIENCE_TEXT="${YEARS} ${YEARS_LABEL} ${MONTHS} ${MONTHS_LABEL}"
+          fi
+
           DATE_STR=$(date +"%d %b %Y")
-          echo "Current date: $DATE_STR"
 
-          # підставляємо в README замість XX.YY (працює і з %20, і з пробілом)
-          sed -i -E "s/Experience[- ]XX\.YY(%20)?years/Experience-${YEARS}%20years/g" README.md
+          LEFT_WIDTH=108
+          RIGHT_WIDTH=150
+          TOTAL_WIDTH=$((LEFT_WIDTH + RIGHT_WIDTH))
 
-          # підставляємо дату у форматі "10 Nov 2025"
+          cat > assets/image/experience-badge.svg <<EOF
+          <svg xmlns="http://www.w3.org/2000/svg" width="${TOTAL_WIDTH}" height="28" role="img" aria-label="Experience: ${EXPERIENCE_TEXT}">
+            <rect width="${LEFT_WIDTH}" height="28" fill="#555"/>
+            <rect x="${LEFT_WIDTH}" width="${RIGHT_WIDTH}" height="28" fill="#007ec6"/>
+            <text x="54" y="19" fill="#fff" font-family="Verdana, DejaVu Sans, sans-serif" font-size="14" text-anchor="middle">Experience</text>
+            <text x="$((LEFT_WIDTH + RIGHT_WIDTH / 2))" y="19" fill="#fff" font-family="Verdana, DejaVu Sans, sans-serif" font-size="14" text-anchor="middle">${EXPERIENCE_TEXT}</text>
+          </svg>
+          EOF
+
           sed -i -E "s|Last update: _[0-9]{2} [A-Za-z]{3} [0-9]{4}_|Last update: _${DATE_STR}_|g" README.md
 
       - name: Commit and push if changed
@@ -49,7 +82,7 @@ jobs:
           if [[ -n $(git status --porcelain) ]]; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add README.md
+            git add README.md assets/image/experience-badge.svg
             git commit -m "chore: update experience badge and date"
             git push
           else
