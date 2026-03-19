@@ -163,7 +163,7 @@ I'm currently building **[SpeakFlow](https://speakflow.space)** - a real-time AI
   Started my IT journey in **January 2023**
 </p>
 
-<table>
+<!-- <table>
   <tr>
     <td>
       <div style="margin-bottom: 5px;">
@@ -173,6 +173,52 @@ I'm currently building **[SpeakFlow](https://speakflow.space)** - a real-time AI
       </div>
     </td>
     <td style="vertical-align: middle; padding-left: 10px;">
+      of continuous development and learning.
+    </td>
+  </tr>
+</table> -->
+
+<table>
+  <tr>
+    <td style="padding: 0; border: none;">
+      <table style="border-collapse: collapse; border-spacing: 0;">
+        <tr>
+          <td
+            style="
+              background: #4b4b4b;
+              color: #ffffff;
+              padding: 6px 12px;
+              font-size: 16px;
+              line-height: 1;
+              font-weight: 600;
+              border-top-left-radius: 6px;
+              border-bottom-left-radius: 6px;
+              white-space: nowrap;
+              border: none;
+            "
+          >
+            Experience
+          </td>
+          <td
+            style="
+              background: #1f8dd6;
+              color: #ffffff;
+              padding: 6px 12px;
+              font-size: 16px;
+              line-height: 1;
+              font-weight: 600;
+              border-top-right-radius: 6px;
+              border-bottom-right-radius: 6px;
+              white-space: nowrap;
+              border: none;
+            "
+          >
+            <!-- EXPERIENCE_TEXT_START -->3 years 1 month<!-- EXPERIENCE_TEXT_END -->
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td style="vertical-align: middle; padding-left: 14px; border: none;">
       of continuous development and learning.
     </td>
   </tr>
