@@ -183,36 +183,10 @@ I'm currently building **[SpeakFlow](https://speakflow.space)** - a real-time AI
     <td style="padding: 0; border: none;">
       <table style="border-collapse: collapse; border-spacing: 0;">
         <tr>
-          <td
-            style="
-              background: #4b4b4b;
-              color: #ffffff;
-              padding: 6px 12px;
-              font-size: 16px;
-              line-height: 1;
-              font-weight: 600;
-              border-top-left-radius: 6px;
-              border-bottom-left-radius: 6px;
-              white-space: nowrap;
-              border: none;
-            "
-          >
+          <td style="background:#555;color:#fff;padding:6px 12px;font-size:16px;line-height:1;font-weight:600;border-top-left-radius:6px;border-bottom-left-radius:6px;white-space:nowrap;border:none;">
             Experience
           </td>
-          <td
-            style="
-              background: #1f8dd6;
-              color: #ffffff;
-              padding: 6px 12px;
-              font-size: 16px;
-              line-height: 1;
-              font-weight: 600;
-              border-top-right-radius: 6px;
-              border-bottom-right-radius: 6px;
-              white-space: nowrap;
-              border: none;
-            "
-          >
+          <td style="background:#007ec6;color:#fff;padding:6px 12px;font-size:16px;line-height:1;font-weight:600;border-top-right-radius:6px;border-bottom-right-radius:6px;white-space:nowrap;border:none;">
             <!-- EXPERIENCE_TEXT_START -->3 years 1 month<!-- EXPERIENCE_TEXT_END -->
           </td>
         </tr>
