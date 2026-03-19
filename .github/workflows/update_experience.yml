@@ -63,7 +63,7 @@ jobs:
           DATE_STR=$(date +"%d %b %Y")
 
           LEFT_WIDTH=108
-          RIGHT_WIDTH=150
+          RIGHT_WIDTH=180
           TOTAL_WIDTH=$((LEFT_WIDTH + RIGHT_WIDTH))
 
           cat > assets/image/experience-badge.svg <<EOF

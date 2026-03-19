@@ -172,8 +172,8 @@ I'm currently building **[SpeakFlow](https://speakflow.space)** - a real-time AI
         align="middle"
       />
     </td>
-    <td style="vertical-align: middle; padding-left: 14px; border:none;">
-      of continuous development and learning.
+    <td valign="middle">
+      &nbsp;&nbsp;&nbsp;of continuous development and learning.
     </td>
   </tr>
 </table>
