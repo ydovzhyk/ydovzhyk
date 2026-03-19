@@ -160,23 +160,8 @@ I'm currently building **[SpeakFlow](https://speakflow.space)** - a real-time AI
 ## 📊 GitHub Activity & Experience
 
 <p>
-  Started my IT journey in **January 2023**
+  Started my professional development journey in <b>February 2023</b>
 </p>
-
-<!-- <table>
-  <tr>
-    <td>
-      <div style="margin-bottom: 5px;">
-        <img src="https://img.shields.io/badge/Experience-3.1%20years-blue"
-        style="height: 24px; vertical-align: middle;"
-        alt="Experience badge"/>
-      </div>
-    </td>
-    <td style="vertical-align: middle; padding-left: 10px;">
-      of continuous development and learning.
-    </td>
-  </tr>
-</table> -->
 
 <table>
   <tr>
