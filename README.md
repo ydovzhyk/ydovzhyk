@@ -165,7 +165,7 @@ I'm currently building **[SpeakFlow](https://speakflow.space)** - a real-time AI
 
 <table>
   <tr>
-    <td align="center" style="border:none;">
+    <td align="center" style="border:none; vertical-align: middle;">
       <img src="./assets/image/experience-badge.svg" alt="Experience badge" />
     </td>
     <td style="vertical-align: middle; padding-left: 14px; border:none;">
