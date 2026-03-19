@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="258" height="28" role="img" aria-label="Experience: 3 years 1 month">
+<svg xmlns="http://www.w3.org/2000/svg" width="288" height="28" role="img" aria-label="Experience: 3 years 1 month">
   <rect width="108" height="28" fill="#555"/>
-  <rect x="108" width="150" height="28" fill="#007ec6"/>
+  <rect x="108" width="180" height="28" fill="#007ec6"/>
   <text x="54" y="19" fill="#fff" font-family="Verdana, DejaVu Sans, sans-serif" font-size="14" text-anchor="middle">Experience</text>
-  <text x="183" y="19" fill="#fff" font-family="Verdana, DejaVu Sans, sans-serif" font-size="14" text-anchor="middle">3 years 1 month</text>
+  <text x="198" y="19" fill="#fff" font-family="Verdana, DejaVu Sans, sans-serif" font-size="14" text-anchor="middle">3 years 1 month</text>
 </svg>
