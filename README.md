@@ -165,11 +165,11 @@ I'm currently building **[SpeakFlow](https://speakflow.space)** - a real-time AI
 
 <table>
   <tr>
-    <td align="center" style="border:none; vertical-align: middle;">
+    <td align="center" valign="middle" border="0">
       <img
         src="./assets/image/experience-badge.svg"
         alt="Experience badge"
-        style="display:block; margin: 0 auto;"
+        align="middle"
       />
     </td>
     <td style="vertical-align: middle; padding-left: 14px; border:none;">
