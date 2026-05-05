@@ -79,7 +79,90 @@ I transitioned to IT after 16 years in corporate management and now work with st
 
 ---
 
-## 🎥 Current Project - MyTube
+<details open>
+  <summary>🎨 <b>Current Project — Style Generate AI</b></summary>
+
+<p align="center">
+  <img src="https://github.com/ydovzhyk/ydovzhyk/blob/main/assets/image/style-generate-ai.png"
+       width="95%" alt="Style Generate AI Preview"/>
+</p>
+
+Style Generate AI is an AI-powered image generation and personalization platform focused on transforming user photos into high-quality styled visuals and printable products.
+
+✨ **Key features:**
+
+- 🖼 AI image generation from user photos (prompt + template system)
+- 🎨 Ready template system with category DNA (coreIdentity, mustHave, avoid rules)
+- 🔁 Regeneration flow with prompt refinement
+- 👤 Visitor vs User access system with generation limits
+- 📊 Usage tracking (daily/monthly limits, plan-based logic)
+- 🧠 Smart prompt engineering + reference-based generation
+- ☁️ Firebase Storage integration for assets
+- ⚙️ Queue-ready architecture (BullMQ / Redis planned)
+- 🛍 Future-ready print & e-commerce integration
+
+🛠 **Tech stack:** Next.js (App Router), Tailwind, Redux Toolkit, Node.js, Express, MongoDB, Firebase, OpenAI API
+
+📦 **Status:** Actively developing core AI generation pipeline & product flow
+
+</details>
+
+---
+
+<details open>
+  <summary>🎥 <b>Current Project — MyTube</b></summary>
+
+<p align="center">
+  <img src="https://github.com/ydovzhyk/ydovzhyk/blob/main/assets/image/my-tube.png"
+       width="95%" alt="MyTube Preview"/>
+</p>
+
+MyTube is a full-stack YouTube-inspired platform built with a production-level architecture.
+
+✨ **Key features:**
+
+- 🎬 Video upload with server-side FFmpeg transcoding (360p / 480p / 720p)
+- ☁️ Firebase Storage integration
+- 🔐 JWT authentication with refresh flow (HttpOnly cookies)
+- 👤 Guest vs Registered user logic (Visitor system)
+- 👍 Reactions, comments (with pin logic), playlists
+- 📺 Persistent global video player (mini-player + queue system)
+- 🔄 Infinite scroll & server-side pagination
+- 🧠 Smart watch history & recommendation filtering
+
+🛠 **Tech stack:** Next.js (App Router), Redux Toolkit, Node.js, Express, MongoDB, Mongoose, Firebase, FFmpeg
+
+📦 **Status:** Paused (core architecture completed, active refactor & scaling planned)
+
+</details>
+
+---
+
+<details>
+  <summary>🚀 <b>Founder Project — SpeakFlow</b></summary>
+
+<p align="center">
+  <img src="https://github.com/ydovzhyk/ydovzhyk/blob/main/assets/image/speak-flow.png"
+       width="95%" alt="SpeakFlow Preview"/>
+</p>
+
+I'm currently building **[SpeakFlow](https://speakflow.space)** - a real-time AI-powered transcription & translation tool.
+
+✨ **Key features:**
+
+- 🎙️ Live audio transcription (Deepgram)
+- 🌍 Real-time translation (OpenAI + WebSockets)
+- 🖥️ Modern UI built with Next.js + Tailwind
+- 🔐 Authentication, settings panel, language controls
+- 📂 Recording history and session tracking
+
+🛠 **Tech stack:** Next.js, Node.js, WebSockets, Deepgram, OpenAI GPT-4o, Tailwind, Redux Toolkit
+
+📦 **Status:** actively developing new features
+
+</details>
+
+<!-- ## 🎥 Current Project - MyTube
 
 <p align="center">
   <img src="https://github.com/ydovzhyk/ydovzhyk/blob/main/assets/image/my-tube.png"
@@ -126,7 +209,7 @@ I'm currently building **[SpeakFlow](https://speakflow.space)** - a real-time AI
 
 📦 **Status:** actively developing new features
 
----
+--- -->
 
 ## 🌐 Featured Projects
 
@@ -134,6 +217,7 @@ I'm currently building **[SpeakFlow](https://speakflow.space)** - a real-time AI
   <tr>
   <td valign="center" width="50%">
 
+🔹 [ARTMED Clinic](https://artmed-clinic.vercel.app/) — SEO-optimized medical clinic landing page in Spain<br>
 🔹 [PinkSkirt](https://pinkskirt.uk) — A studio in a new format<br>
 🔹 [BlueHouse](https://bluehouse-bb.netlify.app) — Reykjavik rental site<br>
 🔹 [SpeakFlow](https://speakflow.space) — Real-time voice translation<br>
