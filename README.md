@@ -173,7 +173,7 @@ I'm currently building **[SpeakFlow](https://speakflow.space)** - a real-time AI
   <tr>
   <td valign="center" width="50%">
 
-🔹 [ARTMED Clinic](https://artmed-clinic.vercel.app/) — Medical clinic landing page in Spain<br>
+🔹 [ARTMED Clinic](https://artmed.live/) — Medical clinic landing page in Spain<br>
 🔹 [PinkSkirt](https://pinkskirt.uk) — A studio in a new format<br>
 🔹 [BlueHouse](https://bluehouse-bb.netlify.app) — Reykjavik rental site<br>
 🔹 [SpeakFlow](https://speakflow.space) — Real-time voice translation<br>
