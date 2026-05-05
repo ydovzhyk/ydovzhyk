@@ -71,7 +71,7 @@
 
 ## 👨‍💼 About Me
 
-I'm a Full Stack Developer with over 2 years of hands-on experience in designing and developing modern, responsive, and user-centric web applications.
+I'm a Full Stack Developer with over 3 years of hands-on experience in designing and developing modern, responsive, and user-centric web applications.
 
 I specialize in working with JavaScript technologies across the stack and enjoy solving challenging problems with elegant solutions. My projects include e-commerce platforms, multilingual websites, AI-integrated apps, and real-time applications using WebSockets.
 
